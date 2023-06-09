@@ -1,0 +1,60 @@
+.rojo {
+	color: red;
+}
+.negrita {
+	font-weight: bold;	
+}
+
+table {
+	width:75%;
+	margin: auto;
+	background-color:#F9EBEA; 
+	
+ }
+
+
+ th, td,tr {
+	
+	text-align: left;
+	vertical-align: top;
+	border: 1px solid #000;
+	border-collapse: collapse;
+	padding-left: 5%;
+	padding-bottom: 5%;
+ }
+ a:link, a:visited, a:active {
+    text-decoration:none;
+}
+
+
+
+ 
+ .enlace {
+  outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+}
+
+a:link {
+  color: #265301;
+  
+}
+
+a:visited {
+  color: #437A16;
+}
+
+a:focus {
+  border-bottom: 1px solid;
+  background: #BAE498;
+}
+
+a:hover {
+  border-bottom: 1px solid;
+  background: #CDFEAA;
+}
+
+a:active {
+  background: #6655;
+  color: #CDFEAA;
+}
